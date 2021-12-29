@@ -11,5 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ili0820&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ili0820](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ili0820})](https://solved.ac/{ili0820})
 
