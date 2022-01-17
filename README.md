@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and IoT
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me : ili0820@konkuk.ac.kr
+- 📫 How to reach me : ili0820@naver.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ili0820&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
